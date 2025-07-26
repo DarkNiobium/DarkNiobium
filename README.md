@@ -1,44 +1,43 @@
-Test README.md fully* written by ChatGPT
-# 🧠 DarkNiobium
 
-> a.k.a Abubakr — the kind of dev who automates his boredom  
-> "Unity, Python, DIY — and sometimes metaphysics."
+```
+                    █████╗ 
+                   ██╔══██╗
+                   ███████║
+                   ██╔══██║
+                   ██║  ██║
+                   ╚═╝  ╚═╝
+```
 
----
-
-### ⚙️ About Me
-
-- 🛠 I build tools for the lazy (and the exhausted).
-- 🧠 Python, Unity, OpenCV, OpenAI — automation is meditation.
-- 🤖 DIY robotics fan — I solder wires like neurons.
-- 🧪 I explore Olympiads like RPG dungeons.
-- 🐧 Arch Linux user, not a gatekeeper. Just comfortable in discomfort.
+<h3 align="center">DarkNiobium</h3>
+<p align="center"><i>Automating boredom, sculpting silence</i></p>
 
 ---
 
-### 🔩 Tech Stack
+### 🧠 About
 
-- `Python` · `Unity C#` · `OpenCV` · `Bash` · `HTML/CSS`
-- `DIY Electronics` · `AI experiments` · `Scanner utilities`  
-- Favorite command: `sleep 0.1 && think`
-
----
-
-### 📦 Featured Projects
-
-- 🔍 `ScannerUtility_inTray` – Tray app to auto-count items and reduce eye fatigue  
-  *→ made for warehouse operators, tested on myself*
-
-> _"Code, but for humans."_
+- 🧰 Python, Unity, OpenCV, DIY robotics  
+- 🧪 Building tools for lazy minds (like mine)  
+- 🐧 Arch Linux — not because it’s hard, but because it fits  
+- 🤖 Creating things that reduce friction between you and meaning  
 
 ---
 
-### 🌐 Connect
+### ⚙️ Interests
 
-- Uzbekistan 🌍  
-- ✉️ abubakrx24@gmail.com  
-- 🧪 [GitHub](https://github.com/DarkNiobium)
+- Automation, minimalism, internal clarity  
+- Code that respects time, and doesn’t waste vision  
 
 ---
 
-> "I don’t chase time. I confuse it until it gives up."
+### 📫 Contact
+
+`abubakrx24@gmail.com`  
+`https://t.me/darkniobium`
+`https://discord.com/darkniobium`
+`https://robocontest.uz/profile/abubakr2im`
+📍 Uzbekistan,Kokand
+
+---
+
+> “How was the fall?"
+
