@@ -21,15 +21,6 @@
 </p>
 
 ---
-
-### 🧭 Learning / Exploring
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,pytorch,tensorflow,react,nextjs,threejs,cpp" />
-</p>
-
----
-
 ### ⚙️ Interests
 
 * Automation, minimalism, internal clarity
@@ -51,14 +42,16 @@
 ### 📫 Contact
 
 📧 `abubakrx24@gmail.com`
+
 💬 [Telegram](https://t.me/darkniobium)
+
 🎧 [Discord](https://discord.com/darkniobium)
+
 🧩 [RoboContest](https://robocontest.uz/profile/abubakr2im)
+
 📍 Uzbekistan, Kokand
 
 ---
 
 > “How was the fall?”
 
-```
----
