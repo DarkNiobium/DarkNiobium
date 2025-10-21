@@ -17,7 +17,7 @@
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,unity,arduino,raspberrypi,opencv,linux,bash,git,github,blender" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,unity,arduino,raspberrypi,opencv,linux,bash,git,github,blender" />
 </p>
 
 ---
